@@ -40,4 +40,4 @@ def part_2():
 
 
 print("Solution Part 1: ", part_1()) # 2147104
-print("Solution Part 1: ", part_2()) # 2044620088
+print("Solution Part 2: ", part_2()) # 2044620088
